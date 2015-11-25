@@ -5,9 +5,9 @@ gems:
   - jemoji
   
 # Site settings
-title: "The Land Before Space"
+title: "Something Artistic"
 description: > # this means to ignore newlines until "email:"
-   Jeff Bruce's personal website
+   Jeff Bruce's (hopefully not too) personal website
 
 email: jeffbruce@gmail.com
 #blog logo
