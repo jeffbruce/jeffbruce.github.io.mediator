@@ -5,7 +5,7 @@ gems:
   - jemoji
   
 # Site settings
-title: "The Annals of Space"
+title: "The Land Before Space"
 description: > # this means to ignore newlines until "email:"
    Jeff Bruce's personal website
 
@@ -17,7 +17,7 @@ cover: "/assets/images/Iceland-099.jpg"
 
 name: 'Jeff Bruce'
 author: 'Jeff Bruce'
-author_image: "/assets/images/author1.jpg"
+author_image: "/assets/images/author2.jpg"
 
 paginate:	5
 
