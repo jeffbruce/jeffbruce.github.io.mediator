@@ -4,14 +4,8 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+Welcome to my personal website.  If you don't know much about me, this page is for you.  For anyone else, stay awhile; [Jeeves](http://askjeeves.com) is somewhere around here serving hors d'oeuvres, and there's some punch by the door if you feel so inclined.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+I'm a programmer / statistician living and working in Toronto, Canada.  I love learning and creating and am regularly overwhelmed by my ideas.  One outlet for me has always been music, which I've been composing since I was about 13 years old.  When I'm not working or creating, in all likelihood you'll probably find me outdoors playing a sport, running, hiking, or indoors pigging out on some glorious food—the term glorious in this context is pretty much exclusively reserved for curries.  
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+With this site, I'm hoping to write more regularly about topics that I'm interested in, as well as share some of the creations I'll be dreaming up with a wider audience.  If you ever feel like collaborating on anything, please get in touch.  I'm a friendly soul, I swear.
